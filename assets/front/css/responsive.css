@@ -1,0 +1,384 @@
+@media (max-width: 1367px) {
+	.main-banner .item .bg{ height:600px;}
+	
+	.main-product-size{ padding-right:60px;}
+	.main-product-size .content{/* padding-left:60px; */}
+	
+	.main-contact{ padding-left:60px;}
+	.main-contact .content{ padding-right:60px;}
+	
+	.product-detail .product-tab .product-tab-left{ padding-right:60px;}
+	
+	.product-detail .product-tab .product-tab-left .product-subtitle{ padding-left:140px;}
+	.certificate-detail{ padding-left:140px;}
+
+	.product-detail .product-tab .tab-menu a{ display:block; padding:0px 20px 0px 80px;}
+	.product-detail .product-tab .product-info{ padding-left:60px;}
+	
+	.product-concept-info{ padding:80px 60px 80px 0px;}
+	
+	.product-features .left{ width:30%; padding:0px 30px;}
+	.product-features .right{ width:30%; padding:0px 30px;}
+	.product-features .center{ width:40%; position:relative;}
+	.product-features .center .cup{ width:80%;}
+}
+@media (max-width: 1199px) {
+	header .contact-btn{ display:none;}
+	header .logo{ left:15px;}
+	header .menu, header .language, header .catalog{ display:none;}
+	header .menu-btn{ display:block;}
+	
+	.contact-section{ display:none;}
+	
+	.main-banner .slider-info{ display:none;}
+	.main-banner .item .caption{ top:50%; -webkit-transform:translate(0, -50%); -moz-transform:translate(0, -50%); transform:translate(0, -50%);}
+	.main-banner .item .caption .container{ padding-right:25%;}
+	
+	.main-banner .intro .item.about{ padding:40px;}
+	.main-banner .intro .item.sustainability{ padding:40px;}
+	.main-banner .intro .item .text-title::before{ width:30px; left:-40px;}
+	
+	.main-banner .intro{ position:relative; left:auto; right:auto; bottom:auto;}
+	
+	.main-product-category .main-product-category-top .content{ padding:80px 0px 120px 0px;}
+	
+	.manufacturing-process .leaf-3{ display:none;}
+	.manufacturing-process .slider .item.slick-center .icon .number{ width:40px; height:40px; line-height:40px; font-size:21px; right:-5px; top:-5px;}
+	.manufacturing-process .slider .item.slick-center .name{ font-size:21px;}
+	.manufacturing-process .slider .slick-prev, .manufacturing-process .slider .slick-next{ top:50%; -webkit-transform:translate(0, -50%); -moz-transform:translate(0, -50%); transform:translate(0, -50%); margin-top:-50px;}
+	.manufacturing-process .slider .slick-prev{ left:0px; margin-left:0px;}
+	.manufacturing-process .slider .slick-next{ right:0px; left:auto; margin-left:0px;}
+	
+	.main-product-size{ padding-right:40px;}
+	.main-product-size .content{/* padding-left:40px; */}
+	.main-product-size .content::after{ right:-20px;}
+	
+	.main-contact{ padding-left:40px;}
+	.main-contact .content{ padding-right:40px;}
+	
+	.page-title{ padding:150px 0px;}
+	.page-title .down{ width:50px; height:50px;}
+	
+	.product-description .leaf-3{ display:none;}
+	.product-description .container{ padding:0px 50px;}
+	
+	.product-detail .bean-3{ right:50px;}
+	.product-detail .bean-4{ display:none;}
+	.product-detail .leaf-1{ display:none;}
+	.product-detail .product-tab .product-tab-left{ padding-right:40px;}
+	
+	.product-detail .product-tab .product-tab-left .product-subtitle{ padding-left:80px;}
+	.certificate-detail{ padding-left:80px;}
+
+	.product-detail .product-tab .tab-menu a{ display:block; padding:0px 20px;}
+	.product-detail .product-tab .product-info{ padding-left:40px;}
+	
+	.product-concept-info{ padding:80px 40px 80px 0px;}
+	.product-concept-info .leaf-2{ left:-40px;}
+	.product-concept-info .product-concept-info-left{ padding:50px;}
+	
+	.product-features .left{ padding:0px 15px;}
+	.product-features .right{ padding:0px 15px;}
+	.product-features .list .item{ margin-bottom:40px;}
+	.product-features .list .item:last-child{ margin-bottom:0px;}
+	.product-features .list .item .info h4{ font-size:18px;}
+	
+	.world-map .map{ height:640px;}
+	
+	.sustainability-content .list .item .info{ font-size:16px;}
+}
+@media (max-width: 991px) {
+	.main-banner .item .bg{ height:480px;}
+	.main-banner .item .caption{ font-size:28px;}
+	.main-banner .item .caption .container{ padding:0px 15px; text-align:center;}
+	.main-banner .slick-dots{ width:100%; left:0px; bottom:10px; padding:0px;}
+	.main-banner .slick-dots li{ display:inline-block; margin:0px 3px;}
+	
+	.main-banner .intro .item{ width:50%;}
+	.main-banner .intro .item.about{ padding:30px 30px 50px 30px;}
+	.main-banner .intro .item.sustainability{ padding:30px 30px 50px 30px; border-right:none;}
+	.main-banner .intro .item .text-title::before{ width:20px; left:-30px;}
+	.main-banner .intro .item.concept{ width:100%; border-top:solid 1px #d7cab5; padding-bottom:20px;}
+	.main-banner .intro .item.concept .parallax{ width:50%; position:relative; left:auto; bottom:auto; margin:0px auto;}
+	
+	.main-product-category .main-product-category-top .content h1{ font-size:28px;}
+	.main-product-category .main-product-category-bottom .list .item .photo img{ width:70%;}
+	.main-product-category .main-product-category-bottom .list .item .info{ padding:0px 20px;}
+	.main-product-category .main-product-category-bottom .list .item .info h3{ font-size:18px;}
+	.main-product-category .main-product-category-bottom .list .item .info a{ padding:8px 20px;}
+	
+	.manufacturing-process h2{ font-size:28px;}
+	
+	.main-product-size{ padding-right:0px;}
+	.main-product-size .content{ padding-left:0px;}
+	.main-product-size .content::after{ right:10px;}
+	.main-product-size .content h2{ font-size:28px;}
+	
+	.main-contact{ padding-left:0px; padding-bottom:0px;}
+	.main-contact .leaf-5{ display:none;}
+	.main-contact .content{ padding-right:0px;}
+	.main-contact .content h3{ font-size:28px;}
+	
+	.page-title{ padding:100px 0px;}
+	.page-title h1{ font-size:28px;}
+	.page-title .down{ width:40px; height:40px; bottom:20px;}
+	
+	.product-description .bean-1{ left:50px;}
+	.product-description .container{ padding:0px 15px;}
+	
+	.product-detail .product-menu ul li{ margin:0px 15px;}
+	
+	.product-detail .product-tab .product-tab-left{ width:100%; padding-right:0px; margin-bottom:40px;}
+	.product-detail .product-tab .product-tab-right{ width:100%;}
+
+	.product-detail .product-tab .product-tab-left .product-subtitle{ display:none;}
+	.certificate-detail{ display:none;}
+	
+	.product-detail .product-tab .tab-menu{ display:-webkit-box; display:-ms-flexbox; display:-webkit-flex; display:flex; flex-wrap:wrap; padding:0px 15px;}
+	.product-detail .product-tab .tab-menu a{ width:32%; margin-right:2%; margin-bottom:2%; padding:0px 10px; -webkit-border-radius:25px; -moz-border-radius:25px; border-radius:25px;}
+	.product-detail .product-tab .tab-menu a:nth-child(3n+0){ margin-right:0px;}
+	.product-detail .product-tab .tab-menu a .item{ padding-left:50px;}
+	.product-detail .product-tab .product-gallery{ padding:0px 15px;}
+	.product-detail .product-tab .product-gallery h2{ font-size:28px;}
+	
+	.product-concept-info{ padding:0px 0px 80px 0px;}
+	.product-concept-info .product-concept-info-left{ padding:40px;}
+	.product-concept-info .product-concept-info-left h3{ font-size:28px;}
+	
+	.product-features .left{ width:100%; margin-bottom:40px;}
+	.product-features .right{ width:100%;}
+	.product-features .center{ width:100%; margin-bottom:40px;}
+	.product-features .center .cup{ width:50%;}
+	.product-features .right .list .item .icon{ order:1; margin-left:0px; margin-right:10px;}
+	.product-features .right .list .item .info{ order:2; text-align:left; margin-right:0px;}
+	
+	.static-content-text{ font-size:16px;}
+	.static-content-text h2{ font-size:28px;}
+	
+	.about-us{ padding:60px 0px;}
+	
+	.about-certifications .content h2{ font-size:28px;}
+	.about-certifications .content{ padding:60px 0px;}
+	
+	.news .list .item{ width:32%; margin-right:2%; margin-bottom:2%;}
+	.news .list .item:nth-child(3n+0){ margin-right:0px;}
+	.news .list .item .info .name{ font-size:16px;}
+	
+	.contact-us{ padding:60px 0px;}
+	.contact-us h2{ font-size:28px;}
+	.contact-us .info .content{ padding:30px;}
+	
+	.world-map h3{ font-size:28px;}
+	.world-map .map{ height:480px;}
+	
+	.sustainability-content .content{ padding:60px 0px;}
+	.sustainability-content .list .item{ align-items:stretch;}
+	.sustainability-content .list .item .info h2{ font-size:28px;}
+	
+	.page-not-found{ padding:60px 0px;}
+	.page-not-found .number img{ width:300px;}
+	.page-not-found .text{ font-size:21px;}
+	
+	footer .leaf-4{ display:none;}
+	footer .footer-top{ padding:60px 0px;}
+	footer .footer-top .menu ul li ul{ position:relative; left:auto; top:auto; padding:10px 0px;}
+	footer .footer-top .menu ul li ul li{ text-align:center;}
+}
+@media (max-width: 767px) {
+	.main-banner .intro .bean-1{ display:none;}
+	.main-banner .item .bg{ height:360px;}
+	.main-banner .item .caption{ font-size:24px;}
+	
+	.main-product-category .bean-2{ display:none;}
+	.main-product-category .bean-4{ display:none;}
+	.main-product-category .main-product-category-top .content{ padding:80px 0px;}
+	.main-product-category .main-product-category-top .content h1{ font-size:24px;}
+	.main-product-category .main-product-category-bottom{ padding:40px 0px;}
+	.main-product-category .main-product-category-bottom .list .item{ width:50%; margin-top:0px; margin-bottom:30px;}
+	
+	.manufacturing-process h2{ font-size:24px;}
+	.manufacturing-process .slider::before{ width:150px; height:135px; position:absolute; top:-10px;}
+	.manufacturing-process .slider .item .icon .number{ width:20px; height:20px; line-height:20px; font-size:11px; right:-2px; top:-2px;}
+	.manufacturing-process .slider .item .name{ font-size:13px;}
+	.manufacturing-process .slider .item.slick-center .icon{ width:120px; height:120px;}
+	.manufacturing-process .slider .item.slick-center .icon .number{ width:30px; height:30px; line-height:30px; font-size:18px; right:-5px; top:-5px;}
+	.manufacturing-process .slider .item.slick-center .name{ font-size:18px;}
+	
+	.main-product-size .content h2{ font-size:24px;}
+	.main-product-size .content .slider{margin:0px -10px;padding: 0px;}
+	.main-product-size .content .item{ margin:0px 10px;}
+	
+	.main-contact .bean-2{ left:50px;}
+	.main-contact .bean-3{ right:50px;}
+	.main-contact .bean-4{ display:none;}
+	.main-contact .content{ padding:80px 0px;}
+	.main-contact .content h3{ font-size:24px;}
+	
+	.page-title{ padding:80px 0px;}
+	.page-title .leaf-2{ display:none;}
+	.page-title h1{ font-size:24px;}
+	
+	.product-description{ padding:80px 0px;}
+	
+	.product-detail .bean-2{ display:none;}
+	.product-detail .content::after{ right:50px;}
+	.product-detail .product-menu{ font-size:15px;}
+	
+	.product-detail .product-tab .tab-menu a{ width:49%;}
+	.product-detail .product-tab .tab-menu a:nth-child(3n+0){ margin-right:2%;}
+	.product-detail .product-tab .tab-menu a:nth-child(2n+0){ margin-right:0px;}
+	.product-detail .product-tab .tab-menu a .name{ font-size:14px;}
+	.product-detail .product-tab .product-gallery h2{ font-size:24px;}
+	
+	.product-concept-info .product-concept-info-right{ width:100%; height:300px;}
+	.product-concept-info .product-concept-info-left{ width:100%;}
+	.product-concept-info .product-concept-info-left h3{ font-size:24px;}
+	
+	.static-content-text h2{ font-size:24px;}
+	.static-content-text h3{ font-size:21px;}
+	
+	.about-certifications .content h2{ font-size:24px;}
+	
+	.news .list .item{ width:48%; margin-right:4%; margin-bottom:4%;}
+	.news .list .item:nth-child(3n+0){ margin-right:4%;}
+	.news .list .item:nth-child(2n+0){ margin-right:0px;}
+	
+	.paging ul li a{ padding:5px 10px;}
+	
+	.contact-us h2{ font-size:24px;}
+	
+	.popup-content{ width:90%;}
+	
+	.world-map h3{ font-size:24px;}
+	.world-map .map{ height:360px;}
+	.map-pin{ width:16px; height:16px;}
+	
+	.sustainability-content .list .item{ display:block;}
+	.sustainability-content .list .item .photo{ width:70%; margin:0px auto; margin-bottom:20px;}
+	.sustainability-content .list .item .info{ width:100%; padding:0px; text-align:center;}
+	.sustainability-content .list .item .info h2{ font-size:24px;}
+	
+	footer .footer-top .logo{ text-align:center;}
+	footer .footer-top .menu ul li{ display:block; margin-bottom:5px;}
+	footer .footer-top .menu ul li ul li{ margin-bottom:5px;}
+	footer .footer-top .social{ text-align:center;}
+	footer .footer-top .social ul li{ margin:0px 10px;}
+	footer .footer-top .social ul li:first-child{ margin:0px 10px;}
+	footer .footer-bottom .copyright{ text-align:center;}
+	footer .footer-bottom .sm724{ text-align:center;}
+	
+	.col-sm-12{ margin-bottom:30px;}
+	.col-sm-12:last-child{ margin-bottom:0px;}
+}
+@media (max-width: 575px) {
+	.manufacturing-process .leaf-2{ display:none;}
+	
+	.product-detail .bean-3{ display:none;}
+		
+	.col-12{ margin-bottom:30px;}
+	.col-12:last-child{ margin-bottom:0px;}
+}
+@media (max-width: 481px) {
+	header{ height:60px;}
+	
+	header .contact-btn a{ width:60px; height:60px;}
+	header .contact-btn a span{ left:15px;}
+	header .contact-btn a span:nth-child(1) { top:21px;}
+	header .contact-btn a span:nth-child(2) { top:29px;}
+	header .contact-btn a span:nth-child(3) { top:37px;}
+	header .contact-btn a.active span:nth-child(1) { top:29px;}
+	header .contact-btn a.active span:nth-child(3) { top:29px;}
+	
+	header .logo{ padding:8px 0px;}	
+	
+	header .menu-btn a{ width:60px; height:60px;}
+	header .menu-btn a span{ right:15px;}
+	header .menu-btn a span:nth-child(1) { top:21px;}
+	header .menu-btn a span:nth-child(2) { top:29px;}
+	header .menu-btn a span:nth-child(3) { top:37px;}
+	header .menu-btn a.active span:nth-child(1) { top:29px;}
+	header .menu-btn a.active span:nth-child(3) { top:29px;}
+	
+	.contact-section{ top:60px;}
+	
+	.mobile-menu-section{ top:60px;}
+	
+	section{ padding-top:60px;}
+	
+	.main-banner .item .bg{ height:300px;}
+	.main-banner .item .caption{ font-size:21px;}
+	
+	.main-banner .intro .item{ width:100%;}
+	.main-banner .intro .item.about{ border-right:none;}
+	.main-banner .intro .item.sustainability{ border-top:solid 1px #d7cab5;}
+	.main-banner .intro .item.concept .parallax{ width:80%;}
+	
+	.main-product-category .leaf-1{ display:none;}
+	.main-product-category .leaf-2{ display:none;}
+	.main-product-category .main-product-category-top .content h1{ font-size:21px;}
+	.main-product-category .main-product-category-bottom .list .item .info{ padding:0px 10px;}
+	.main-product-category .main-product-category-bottom .list .item .info a{ padding:8px 15px; font-size:12px;}
+	
+	.manufacturing-process h2{ font-size:21px;}
+	
+	.main-product-size .leaf-4{ right:50px;}
+	.main-product-size .content h2{ font-size:21px;}
+	
+	.main-contact .content{ padding:60px 0px;}
+	.main-contact .content h3{ font-size:21px;}
+	
+	.page-title{ padding:60px 0px;}
+	.page-title h1{ font-size:21px;}
+	.page-title .down{ width:30px; height:30px; bottom:10px;}
+	
+	.product-description{ padding:60px 0px; font-size:16px;}
+	.product-description .bean-1{ left:10px;}
+	
+	.product-detail .product-menu{ font-size:14px;}
+	
+	.product-detail .product-tab .tab-menu a .item{ padding-left:40px;}
+	.product-detail .product-tab .tab-menu a .photo{ top:5px;}
+	.product-detail .product-tab .tab-menu a .photo img{ height:40px;}
+	.product-detail .product-tab .tab-menu a .name{ font-size:13px;}
+	.product-detail .product-tab .product-gallery{ width:100%; margin-bottom:20px;}
+	.product-detail .product-tab .product-gallery h2{ font-size:21px;}
+	.product-detail .product-tab .product-info{ width:100%; padding:0px 15px;}
+	.product-detail .product-tab .product-info .catalog a{ -webkit-border-radius:25px; -moz-border-radius:25px; border-radius:25px;}
+	
+	.product-concept-info .product-concept-info-left h3{ font-size:21px;}
+	
+	.product-features .center .cup{ width:70%;}
+	
+	.static-content-text{ font-size:15px;}
+	.static-content-text h2{ font-size:21px;}
+	.static-content-text h3{ font-size:18px;}
+	.static-content-text h4{ font-size:16px;}
+	
+	.about-us{ padding:40px 0px;}
+	
+	.about-certifications .content h2{ font-size:21px;}
+	
+	.news .list .item .info{ padding:10px;}
+	.news .list .item .info .date{ font-size:12px; margin-bottom:10px;}
+	.news .list .item .info .name{ font-size:14px;}
+	
+	.contact-us{ padding:40px 0px;}
+	.contact-us h2{ font-size:21px; margin-bottom:30px;}
+	.contact-us .info .content{ font-size:14px;}
+	
+	.world-map h3{ font-size:21px; margin-bottom:30px;}
+	.world-map .map{ height:240px;}
+	
+	.sustainability-content .leaf-1{ left:-60px; top:-40px;}
+	.sustainability-content .leaf-3{ display:none;}
+	.sustainability-content .content{ padding:40px 0px;}
+	.sustainability-content .list .item .info{ font-size:14px;}
+	.sustainability-content .list .item .info h2{ font-size:21px;}
+	
+	.page-not-found{ padding:40px 0px;}
+	.page-not-found .number img{ width:240px;}
+	.page-not-found .text{ font-size:18px;}
+	.page-not-found .action a{ font-size:16px; padding:10px 20px;}
+
+	.overlay{ top:60px;}
+}

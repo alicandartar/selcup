@@ -1,0 +1,90 @@
+@font-face {
+	font-family: "ITCFranklinGothicStd-BkCp";
+	src: url("fonts/ITCFranklinGothicStd-BkCp.eot");
+	src: url("fonts/ITCFranklinGothicStd-BkCp.eot?#iefix") format("embedded-opentype"),
+		url("fonts/ITCFranklinGothicStd-BkCp.ttf") format("truetype"),
+		url("fonts/ITCFranklinGothicStd-BkCp.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "ITCFranklinGothicStd-BkXCp";
+	src: url("fonts/ITCFranklinGothicStd-BkXCp.eot");
+	src: url("fonts/ITCFranklinGothicStd-BkXCp.eot?#iefix") format("embedded-opentype"),
+		url("fonts/ITCFranklinGothicStd-BkXCp.ttf") format("truetype"),
+		url("fonts/ITCFranklinGothicStd-BkXCp.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "ITCFranklinGothicStd-Book";
+	src: url("fonts/ITCFranklinGothicStd-Book.eot");
+	src: url("fonts/ITCFranklinGothicStd-Book.eot?#iefix") format("embedded-opentype"),
+		url("fonts/ITCFranklinGothicStd-Book.ttf") format("truetype"),
+		url("fonts/ITCFranklinGothicStd-Book.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "ITCFranklinGothicStd-Demi";
+	src: url("fonts/ITCFranklinGothicStd-Demi.eot");
+	src: url("fonts/ITCFranklinGothicStd-Demi.eot?#iefix") format("embedded-opentype"),
+		url("fonts/ITCFranklinGothicStd-Demi.ttf") format("truetype"),
+		url("fonts/ITCFranklinGothicStd-Demi.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "ITCFranklinGothicStd-DmCd";
+	src: url("fonts/ITCFranklinGothicStd-DmCd.eot");
+	src: url("fonts/ITCFranklinGothicStd-DmCd.eot?#iefix") format("embedded-opentype"),
+		url("fonts/ITCFranklinGothicStd-DmCd.ttf") format("truetype"),
+		url("fonts/ITCFranklinGothicStd-DmCd.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "ITCFranklinGothicStd-DmCp";
+	src: url("fonts/ITCFranklinGothicStd-DmCp.eot");
+	src: url("fonts/ITCFranklinGothicStd-DmCp.eot?#iefix") format("embedded-opentype"),
+		url("fonts/ITCFranklinGothicStd-DmCp.ttf") format("truetype"),
+		url("fonts/ITCFranklinGothicStd-DmCp.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "ITCFranklinGothicStd-DmXCp";
+	src: url("fonts/ITCFranklinGothicStd-DmXCp.eot");
+	src: url("fonts/ITCFranklinGothicStd-DmXCp.eot?#iefix") format("embedded-opentype"),
+		url("fonts/ITCFranklinGothicStd-DmXCp.ttf") format("truetype"),
+		url("fonts/ITCFranklinGothicStd-DmXCp.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "ITCFranklinGothicStd-Hvy";
+	src: url("fonts/ITCFranklinGothicStd-Hvy.eot");
+	src: url("fonts/ITCFranklinGothicStd-Hvy.eot?#iefix") format("embedded-opentype"),
+		url("fonts/ITCFranklinGothicStd-Hvy.ttf") format("truetype"),
+		url("fonts/ITCFranklinGothicStd-Hvy.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "ITCFranklinGothicStd-MdCd";
+	src: url("fonts/ITCFranklinGothicStd-MdCd.eot");
+	src: url("fonts/ITCFranklinGothicStd-MdCd.eot?#iefix") format("embedded-opentype"),
+		url("fonts/ITCFranklinGothicStd-MdCd.ttf") format("truetype"),
+		url("fonts/ITCFranklinGothicStd-MdCd.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "ITCFranklinGothicStd-Med";
+	src: url("fonts/ITCFranklinGothicStd-Med.eot");
+	src: url("fonts/ITCFranklinGothicStd-Med.eot?#iefix") format("embedded-opentype"),
+		url("fonts/ITCFranklinGothicStd-Med.ttf") format("truetype"),
+		url("fonts/ITCFranklinGothicStd-Med.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
